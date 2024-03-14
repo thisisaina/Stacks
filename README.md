@@ -26,3 +26,14 @@ Let's look at some examples:
 ")(" or "(" or ")" - All invalid because they contain either unmatched or improperly ordered parentheses.
 
 The goal is to determine if parentheses (and optionally other brackets like curly braces and square brackets) in an expression are properly balanced.
+
+
+2.ReversedString
+
+You'll implement a basic stack to reverse a string using the stack's LIFO property.
+
+Expected output
+
+Original: Hello, World!
+
+Reversed: !dlroW ,olleH
